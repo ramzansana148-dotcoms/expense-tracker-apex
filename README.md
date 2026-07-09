@@ -81,4 +81,4 @@ in screenshot folder
 
 ## Author
 
-Ramzan Sana
+Sana Ramzan
